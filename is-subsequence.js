@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 // add whatever parameters you deem necessary
 /* 
 Fumction takes two strings and checks if the first string is a subsequence of the second string. 
